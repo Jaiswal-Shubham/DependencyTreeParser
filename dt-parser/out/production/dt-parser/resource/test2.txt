@@ -1,0 +1,15 @@
+[INFO] +- org.springframework.boot:spring-boot-starter-integration:jar:3.1.5:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-aop:jar:3.1.5:compile
+[INFO] |  |  +- org.springframework:spring-aop:jar:6.0.13:compile
+[INFO] |  |  \- org.aspectj:aspectjweaver:jar:1.9.20:compile
+[INFO] |  \- org.springframework.integration:spring-integration-core:jar:6.1.4:compile
+[INFO] |     +- org.springframework:spring-context:jar:6.0.13:compile
+[INFO] |     +- org.springframework:spring-messaging:jar:6.0.13:compile
+[INFO] |     +- org.springframework:spring-tx:jar:6.0.13:compile
+[INFO] |     +- org.springframework.retry:spring-retry:jar:2.0.4:compile
+[INFO] |     +- io.projectreactor:reactor-core:jar:3.5.11:compile
+[INFO] |     |  \- org.reactivestreams:reactive-streams:jar:1.0.4:compile
+[INFO] |     \- io.micrometer:micrometer-observation:jar:1.11.5:compile
+[INFO] |        \- io.micrometer:micrometer-commons:jar:1.11.5:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:3.1.5:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:3.1.5:compile
